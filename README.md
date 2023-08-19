@@ -1,6 +1,7 @@
 # icast-connectmedia-stream-finder
 
-# aA 2023.08.19.-ei állapot, az aktív stream csatornák:
+# A 2023.08.19.-ei állapot, az aktív stream csatornák:
+
 https://icast.connectmedia.hu/4780/live.mp3
 https://icast.connectmedia.hu/4785/live.mp3
 https://icast.connectmedia.hu/4786/live.mp3
